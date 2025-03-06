@@ -7,7 +7,7 @@ Bot Dev is from Vietnam. He is a freelance programmer and an IC designer in trai
 Nothings
 
 * 🌍  I'm based in Ha Noi
-* ✉️  You can contact me at [maimanhg163@gmail.com](mailto:maimanhg163@gmail.com)
+* ✉️  You can contact me at [admin@devbotesc.xyz](mailto:admin@devbotesc.xyz)
 * 🧠  I'm learning Verilog, Java, Javascript, Php
 * 🤝  I'm open to collaborating on Facebook, Telegram, Email
 * ⚡  Nothings
