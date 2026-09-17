@@ -1,4 +1,4 @@
-Hi 👋 My name is Bot Dev
+Hi 👋 My name is Bot
 ========================
 
 Bot Dev is from Vietnam. He is a freelance programmer and an IC designer in training.
